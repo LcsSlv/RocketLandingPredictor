@@ -26,5 +26,5 @@ To run the notebooks locally, ensure you have the necessary dependencies install
 ## License
 This project is licensed under the [MIT License](link_to_license_file). You are free to modify and adapt the code according to your needs.
 
-For any questions or inquiries, please contact Lucas Silva(mailto:lcsslv.0107@gmail.com).
+For any questions or inquiries, please contact Lucas Silva(lcsslv.0107@gmail.com).
 
