@@ -18,7 +18,7 @@ The project is organized into multiple Jupyter Notebooks, each dedicated to a sp
 - [Notebook 4: EDA with SQL](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/EDA%20of%20Launch%20Data%20with%20SQL.ipynb)
 - [Notebook 5: EDA with Visualization](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/EDA%20of%20Launch%20Data%20with%20Visualization.ipynb)
 - [Notebook 6: Launch Site Analysis with Folium](https://nbviewer.org/github/LcsSlv/RocketLandingPredictor/blob/main/Launch%20Site%20Analysis%20with%20Folium.ipynb)
-- [Notebook 7: Launch Site Analysis with Dash(Dashboard)]
+- [Notebook 7: Launch Site Analysis with Dash(Dashboard)](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/SpaceX%20Dash%20App.py)
 - [Notebook 8: Machine Learning Selection](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/Machine%20Learning%20Prediction.ipynb)
 
 Feel free to explore each notebook to gain insights into the data science techniques and methodologies used throughout the project.
