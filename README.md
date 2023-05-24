@@ -17,6 +17,7 @@ The project is organized into multiple Jupyter Notebooks, each dedicated to a sp
 - [Notebook 3: Exploratory Data Analysis](link_to_notebook_3)
 - [Notebook 4: Machine Learning Modeling](link_to_notebook_4)
 - [Notebook 5: Data Visualization](link_to_notebook_5)
+- [Notebook 5: Launch Site Analysis with Folium]([link_to_notebook_5](https://nbviewer.org/github/LcsSlv/RocketLandingPredictor/blob/main/Launch%20Site%20Analysis%20with%20Folium.ipynb))
 
 Feel free to explore each notebook to gain insights into the data science techniques and methodologies used throughout the project.
 
