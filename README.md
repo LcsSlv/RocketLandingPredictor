@@ -12,12 +12,14 @@ The main objective is to predict the successful landing of the first stage of th
 The project is organized into multiple Jupyter Notebooks, each dedicated to a specific area of data science. The notebooks cover topics such as data collection, data cleaning and preprocessing, exploratory data analysis (EDA), machine learning modeling, and visualization.
 
 ## Notebooks
-- [Notebook 1: Data Collection](link_to_notebook_1)
-- [Notebook 2: Data Cleaning and Preprocessing](link_to_notebook_2)
-- [Notebook 3: Exploratory Data Analysis](link_to_notebook_3)
-- [Notebook 4: Machine Learning Modeling](link_to_notebook_4)
-- [Notebook 5: Data Visualization](link_to_notebook_5)
-- [Notebook 5: Launch Site Analysis with Folium](https://nbviewer.org/github/LcsSlv/RocketLandingPredictor/blob/main/Launch%20Site%20Analysis%20with%20Folium.ipynb)
+- [Notebook 1: Collecting Launch Data Through API](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/Launch%20Data%20Through%20API%20Notebook%20(1).ipynb)
+- [Notebook 2: Collecting Launch Data Through Web Scraping](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/Launch%20Data%20Through%20Web%20Scraping%20Notebook.ipynb)
+- [Notebook 3: Data Wrangling](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/Data%20Wrangling%20%20Notebook.ipynb)
+- [Notebook 4: EDA with SQL](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/EDA%20of%20Launch%20Data%20with%20SQL.ipynb)
+- [Notebook 5: EDA with Visualization](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/EDA%20of%20Launch%20Data%20with%20Visualization.ipynb)
+- [Notebook 6: Launch Site Analysis with Folium](https://nbviewer.org/github/LcsSlv/RocketLandingPredictor/blob/main/Launch%20Site%20Analysis%20with%20Folium.ipynb)
+- [Notebook 7: Launch Site Analysis with Dash(Dashboard)](https://nbviewer.org/github/LcsSlv/RocketLandingPredictor/blob/main/Launch%20Site%20Analysis%20with%20Folium.ipynb)
+- [Notebook 8: Machine Learning Selection](https://github.com/LcsSlv/RocketLandingPredictor/blob/main/Machine%20Learning%20Prediction.ipynb)
 
 Feel free to explore each notebook to gain insights into the data science techniques and methodologies used throughout the project.
 
