@@ -26,8 +26,5 @@ Feel free to explore each notebook to gain insights into the data science techni
 ## Requirements
 To run the notebooks locally, ensure you have the necessary dependencies installed. You can refer to the requirements.txt file for the specific packages and versions required.
 
-## License
-This project is licensed under the [MIT License](link_to_license_file). You are free to modify and adapt the code according to your needs.
-
 For any questions or inquiries, please contact [Lucas Silva](mailto:lcsslv.0107@gmail.com).
 
